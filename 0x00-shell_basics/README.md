@@ -10,4 +10,6 @@
 9.Bye bye Holberton ---> rmdir /tmp/holberton/ 
 10.Back to the future ---> cd -
 11.List ---> ls -la . .. /boot
-12. File type ---> file /tmp/iamafile
+12.File type ---> file /tmp/iamafile
+13.We are symbols, and inhabit symbols ---> ln -s /bin/ls __ls__
+14.Copy HTML files ---> cp *html ..
