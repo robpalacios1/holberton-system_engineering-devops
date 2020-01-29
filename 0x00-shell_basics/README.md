@@ -7,3 +7,4 @@
 6.Welcome holberton --->mkdir /tmp/holberton
 7.Betty in Holberton ---> mv /tmp/betty /tmp/holberton
 8.Bye bye Betty ---> rm /tmp/holberton/betty
+9.Bye bye Holberton ---> rmdir /tmp/holberton/ 
