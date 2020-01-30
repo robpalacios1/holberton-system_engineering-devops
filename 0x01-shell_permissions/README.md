@@ -8,3 +8,4 @@
 7. Everybody!--->chmod ugo+x hello
 8. James Bond--->chmod 007 hello
 9. John Doe--->chmod 753 hello
+10. Look in the mirror---> chmod --reference=hello olleh
