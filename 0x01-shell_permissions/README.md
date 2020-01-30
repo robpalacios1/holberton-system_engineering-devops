@@ -3,3 +3,4 @@
 2. Groups--->groups
 3. New owner---> sudo betty hello
 4. Empty--> touch hello
+5. Executed---> chmod u+x hello
