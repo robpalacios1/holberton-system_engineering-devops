@@ -15,3 +15,4 @@
 14.Copy HTML files ---> cp *html ..
 15.Let’s move --->mv [ABCDEFGHIJKLMNOPQRSTUVWXYZ]* /tmp/u
 16.Clean Emacs ---> rm *~
+17.Tree --->mkdir -p welcome/to/holberton
