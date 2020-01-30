@@ -4,3 +4,4 @@
 3. New owner---> sudo betty hello
 4. Empty--> touch hello
 5. Executed---> chmod u+x hello
+6. multiple permissions--->chmod ug+x,a+r hello
