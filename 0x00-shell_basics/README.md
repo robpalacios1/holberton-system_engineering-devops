@@ -14,3 +14,4 @@
 13.We are symbols, and inhabit symbols ---> ln -s /bin/ls __ls__
 14.Copy HTML files ---> cp *html ..
 15.Let’s move --->mv [ABCDEFGHIJKLMNOPQRSTUVWXYZ]* /tmp/u
+16.Clean Emacs ---> rm *~
