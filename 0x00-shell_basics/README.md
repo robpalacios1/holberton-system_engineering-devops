@@ -16,3 +16,4 @@
 15.Let’s move --->mv [ABCDEFGHIJKLMNOPQRSTUVWXYZ]* /tmp/u
 16.Clean Emacs ---> rm *~
 17.Tree --->mkdir -p welcome/to/holberton
+18.Life is a series of commas, not periods --->ls -m -F -p -a
