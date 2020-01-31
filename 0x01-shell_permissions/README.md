@@ -8,4 +8,10 @@
 7. Everybody!--->chmod ugo+x hello
 8. James Bond--->chmod 007 hello
 9. John Doe--->chmod 753 hello
-10. Look in the mirror---> chmod --reference=hello olleh
+10. Look in the mirror--->chmod --reference=hello olleh
+11. Direcrories--->chmod -R ugo+X .
+12. More directories--->mkdir -m 751 dir_holberton
+13. Change group--->chgrp holberton hello
+14. Owner and group--->chown -hR betty:holberton
+15. Symbolic links--->chown -h betty:holberton _hello
+16. If only--->chown --from=guillaume betty hello 
