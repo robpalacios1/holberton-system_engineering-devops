@@ -6,4 +6,6 @@
 5. Id prefer the first ones actually---> head -n 10 /etc/passwd
 6. Line #2---> head -n  iacta | tail n-1
 7. Its a good file that cuts iron without making a noise--->echo -e 'Holberton School' > \\*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)'
+8. Save current state of directory---> ls -la ls_cwd_content
+
 
