@@ -24,3 +24,4 @@
 23. Empty casks make the moise noise---> find . -empty | rev | cut --delimiter='/' -f1 | rev
 24. A gif is worth ten thousand words---> find . -name "*.gif" -type f | rev | cut -d "." --complement  -f 1 | cut -d "/" -f 1 | rev | LC_ALL=C  sort -f
 25. Acrostic---> cut -c1 | tr -d '\n' | sort 
+16. The biggest fan---> tail -n+2 | cut -f1 | sort | uniq -c | sort -nr | rev | cut --delimiter=' ' -f1 | rev | head --lines=11
