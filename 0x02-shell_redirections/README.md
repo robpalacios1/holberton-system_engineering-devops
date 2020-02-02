@@ -9,5 +9,5 @@
 8. Save current state of directory---> ls -la ls_cwd_content
 9. Duplicate last line---> tail -n 1 iacta >> iacta
 10. find . -type f -name '*.js' -delete
-
+11. Dont just count tour directories, make your directories count---> find . type d -mindepth 1 | wc -1
 
