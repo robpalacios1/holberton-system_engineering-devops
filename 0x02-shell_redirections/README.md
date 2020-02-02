@@ -20,6 +20,8 @@
 19. A to Z---> tr 'Ac' 'Ze'
 20. Without C, you would live in hiago--->tr -d cC
 21. esreveR---> rev
+22.DJ Cut Killer---> cut -f 1,6 -d ':' /etc/passwd | sort
+
 
 
 
