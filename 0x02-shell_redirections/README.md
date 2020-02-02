@@ -14,7 +14,7 @@
 13. Being unique is better than being perfect--->sort | uniq -u
 14. It must be in that file---> grep "root" /etc/passwd
 15. Count that word---> grep -c "bin" /etc/passwd
-16. Whats next---> grep -e "root" /etc/passwd
+16. Whats next---> grep -A 3 "root" /etc/passwd
 17. I hate bin---> grep -v "bin" /etc/passwd
 
 
