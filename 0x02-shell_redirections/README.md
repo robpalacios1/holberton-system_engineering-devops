@@ -10,4 +10,5 @@
 9. Duplicate last line---> tail -n 1 iacta >> iacta
 10. find . -type f -name '*.js' -delete
 11. Dont just count tour directories, make your directories count---> find . type d -mindepth 1 | wc -1
+12. Whats new---> ls -Ut head -n 10
 
