@@ -17,6 +17,7 @@
 16. Whats next---> grep -A 3 "root" /etc/passwd
 17. I hate bin---> grep -v "bin" /etc/passwd
 18. Letters only please---> grep ^[[:alpha:]] /etc/ssh/sshd_config
+19. A to Z---> tr 'Ac' 'Ze'
 
 
 
