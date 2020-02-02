@@ -13,3 +13,5 @@
 12. Whats new---> ls -Ut head -n 10
 13. Being unique is better than being perfect--->sort | uniq -u
 14. It must be in that file---> grep "root" /etc/passwd
+15. Count that word---> grep -c "bin" /etc/passwd
+
