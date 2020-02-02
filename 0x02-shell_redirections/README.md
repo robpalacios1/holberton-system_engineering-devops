@@ -18,6 +18,8 @@
 17. I hate bin---> grep -v "bin" /etc/passwd
 18. Letters only please---> grep ^[[:alpha:]] /etc/ssh/sshd_config
 19. A to Z---> tr 'Ac' 'Ze'
+20. Without C, you would live in hiago--->tr -d cC
+21. esreveR---> rev
 
 
 
