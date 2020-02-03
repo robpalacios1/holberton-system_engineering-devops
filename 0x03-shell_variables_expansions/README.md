@@ -5,3 +5,4 @@
 4. Global variables---> printenv
 5.  Local variables---> set
 6. Local variable---> BETTY="Holberton"
+7. Global variable---> export HOLBERTON="Betty"
