@@ -4,4 +4,4 @@
 3. If the path be beautiful, let us not ask where it leads--->echo $PATH |tr ':' '\n'| wc -l
 4. Global variables---> printenv
 5.  Local variables---> set
-6. Local variable---> Betty="Holberton"
+6. Local variable---> BETTY="Holberton"
