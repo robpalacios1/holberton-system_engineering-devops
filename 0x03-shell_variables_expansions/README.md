@@ -6,3 +6,4 @@
 5.  Local variables---> set
 6. Local variable---> BETTY="Holberton"
 7. Global variable---> export HOLBERTON="Betty"
+8. Every addition to true knowledge is an addition to human power---> echo "$((TRUEKNOWLEDGE=TRUEKNOWLEDGE+128))"
