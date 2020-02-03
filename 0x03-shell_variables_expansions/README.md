@@ -10,4 +10,5 @@
 9. Divide and rule---> echo $((POWER/DIVIDE))
 10.Love is anterior to life, posterior to death, initial of creation, and the exponent of breath---> echo $((BREATH**LOVE))
 11. There are 10 types of people in the world -- Those who understand binary, and those who don't--->echo "$((#BINARY%2))"
-12 Combination---> echo {a..z}{a..z} |tr '' '\'| grep -v "00"
+12. Combination---> echo {a..z}{a..z} |tr '' '\'| grep -v "00"
+13. Floats---> printf "%.2f\n" $NUM
