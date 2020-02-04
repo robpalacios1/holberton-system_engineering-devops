@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 0. My name is Betty--->su betty
 1. Who am I--->Whoami
 2. Groups--->groups
@@ -16,3 +17,6 @@
 15. Symbolic links--->chown -h betty:holberton _hello
 16. If only--->chown --from=guillaume betty hello
 17. Star Wars---> towel.blinkenlights.nl
+=======
+This folder contains commands of permissions in shell
+>>>>>>> 31fc191cbafa7bd899eaa7921276dfa38f15953a
