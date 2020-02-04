@@ -12,3 +12,7 @@
 11. There are 10 types of people in the world -- Those who understand binary, and those who don't--->echo "$((#BINARY%2))"
 12. Combination---> echo {a..z}{a..z} |tr '' '\'| grep -v "00"
 13. Floats---> printf "%.2f\n" $NUM
+14. Decimal to Hexadecimal---> rep "root" /etc/passwd
+17. Everyone is a proponent of strong encryption--->tr '[A-Za-z]' '[N-ZA-Mn-za-m]'
+18. The eggs of the brood need to be an odd number--->perl -ne 'print if(++$x)%2'
+19. I'm an instant star. Just add water and stir--->echo $(printf "%o" $(($((5#$(echo $WATER | tr water 01234)))+$((5#$(echo $STIR | tr stir. 01234)))))) | tr 01234567 behlnort
