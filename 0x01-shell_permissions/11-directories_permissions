@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 chmod -R ugo+X . 
+=======
+chmod -R ugo+X .
+>>>>>>> 31fc191cbafa7bd899eaa7921276dfa38f15953a

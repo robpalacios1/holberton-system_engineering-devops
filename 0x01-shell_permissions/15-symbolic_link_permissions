@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 chown -h betty:holberton _hello 
+=======
+chown -h betty:holberton _hello
+>>>>>>> 31fc191cbafa7bd899eaa7921276dfa38f15953a
