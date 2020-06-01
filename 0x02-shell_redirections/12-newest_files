@@ -1,6 +1,3 @@
 #!/bin/bash
-<<<<<<< HEAD
 ls -Ut | head -n 10
-=======
-ls -Ut | head -n10
->>>>>>> 31fc191cbafa7bd899eaa7921276dfa38f15953a
+
