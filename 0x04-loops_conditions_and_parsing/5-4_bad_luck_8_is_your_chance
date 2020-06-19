@@ -1,4 +1,4 @@
-#/usr/bin/env bash
+#!/usr/bin/env bash
 # This script is displaying "Holberton School" except line 4 and 8.
 i=0
 while [ $i -lt 10 ];
