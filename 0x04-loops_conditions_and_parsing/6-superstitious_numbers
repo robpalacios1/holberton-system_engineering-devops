@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#This script is displaying numbers from 1 to 20 and it show line 5
+# This script is displaying numbers from 1 to 20 and it show line 5
 #"bad luck from China" line 10 "bad luck from Japan" and line 18
 "bad luck from Italy"
 i=1
@@ -11,5 +11,5 @@ do
         9) echo "bad luck from Japan";;
         17) echo "bad luck from Italy";;
     esac
-    let i=i+1
+    i=$((i+1))
 done
