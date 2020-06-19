@@ -1,2 +1,7 @@
 #!/bin/bash
+<<<<<<< HEAD
 ls -Ut | head -n 10
+=======
+ls -Ut | head
+
+>>>>>>> ef3e24b54bb9674f5f1fec34e552d06f74119028
