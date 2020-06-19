@@ -3,7 +3,7 @@
 #"bad luck from China" line 10 "bad luck from Japan" and line 18
 "bad luck from Italy"
 i=1
-while [ $i -le 21 ];
+while [ $i -le 20 ];
 do
     echo "$i"
     case "$i" in
