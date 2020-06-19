@@ -1,15 +1,16 @@
 #/usr/bin/env bash
 # This script is displaying "Holberton School" except line 4 and 8.
-i=1
-while [ $i -lt 9 ];
+i=0
+while [ $i -lt 10 ];
 do
-	if [ $i -eq 4 ];
+	if [ $i -eq 3 ];
 	then
 		echo "bad luck"
-		elif [ $i -eq 7 ];
-		then
-			echo "good luck"
+	elif [ $i -eq 7 ];
+	then
+		echo "good luck"
+	else
+		echo "Holberton School"
 	fi
-	echo "Holberton School"
 	let i=i+1
 done
