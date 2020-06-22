@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Process and PID file
 
-sudo bash -c "echo $BASHPID" /var/run/holbertonscript.pid
+sudo bash -c "echo $BASHPID > /var/run/holbertonscript.pid"
 while true
 do
     echo "To infinity and beyond"
