@@ -1,6 +1,8 @@
 # :gear: 0x08. Networking basics #1 :gear:
 
-<p align="center"> <img src="your_relative_path_here" width="350"/> <img src="C:\Users\robpa\OneDrive\Escritorio\http.jpg>" width="350"/> </p> 
+<p align="center"> 
+  <img src="C:\Users\robpa\OneDrive\Escritorio\http.jpg" width="350"/> 
+</p> 
 
 ## Resources :books:
 
