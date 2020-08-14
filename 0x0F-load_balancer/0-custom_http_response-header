@@ -4,6 +4,5 @@
 sudo apt-get -y update
 sudo apt-get -y upgrade
 sudo apt-get -y install nginx
-sudo sed -i "23i\\\tadd_header X-Served-By $HOSTNAME;" /etc/nginx/nginx.conf
-echo "Holberton School" | sudo tee /usr/share/nginx/html/index.html
+sudo sed -i "23i\\\tadd_header X-Served-By $HOSTNAME;" /etc/nginx/sites-enabled/default
 sudo service nginx restart
