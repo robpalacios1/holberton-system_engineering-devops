@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# script i used to install nginx on my local web server
+# copy of original to automate setup of a new web server config
+sudo apt-get -y update
+sudo apt-get -y install nginx
+sudo sed -i "23i\\\tadd_header X-Served-By $HOSTNAME;" /etc/nginx/sites-enabled/default
+sudo service nginx restart
