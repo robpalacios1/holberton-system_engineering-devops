@@ -1,6 +1,6 @@
 # :gear: 0x10. HTTPS SSL :gear:
  
-*For this project, students are expected to look at these concepts:*
+*For this project, are expected to look at these concepts:*
 - DNS
 - Web stack debugging
 
