@@ -1,4 +1,4 @@
-# 0x14. MySQL
+# :gear: 0x14. MySQL :gear:
  
 *For this project, students are expected to look at these concepts:*
 
@@ -18,14 +18,14 @@
 - mysqldump
 
 
-## General
+## General :triangular_ruler:
 - What is the main role of a database
 - What is a database replica
 - What is the purpose of a database replica
 - Why database backups need to be stored in different physical locations
 - What operation should you regularly perform to make sure that your database backup strategy actually works
 
-## Requirements
+## Requirements :triangular_ruler:
 ### General
 - Allowed editors: vi, vim, emacs
 - All your files will be interpreted on Ubuntu 16.04 LTS
