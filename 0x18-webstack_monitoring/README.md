@@ -1,6 +1,6 @@
-:gear: 0x18. Webstack monitoring :gear:
+# :gear: 0x18. Webstack monitoring :gear:
  
-*For this project, students are expected to look at these concepts:
+*For this project, students are expected to look at these concepts:*
 - Monitoring
 - Server
 
